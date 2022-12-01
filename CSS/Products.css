@@ -70,41 +70,45 @@ ul li{
 .shadow{
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
-
+.rice1{
+    width: 15rem;
+    height: auto;
+}
 .pulses{
     width: auto;
-    height: 245px;
+    height: 15.31rem;
 }
 
 .spices {
 
-    width: 389px;
-    height: 245px;
+    width: 24.3rem;
+    height: 15.31rem;
 
 }
 
 .tea{
-    width: 345px;
+    width: 21.5rem;
     height: auto;
 }
 
 .Grains{
     width: auto;
-    height: 245px;
+    height: 15.31rem;
 
 }
 
 .fruits{
     width: auto;
-    height: 267px;
+    height: 16.68rem;
 }
 
 .vegetable{
-    height: 300px;width: auto;
+    height: 18.75rem;
+    width: auto;
 }
 
 .dry_fruits{
-    height: 315px;
+    height: 19.68rem;
     width: 29rem;
 
 
@@ -115,8 +119,8 @@ ul li{
 }
 
 .oil_seeds{
-    width: 349px;
-    height: 300px;
+    width: 21.8rem;
+    height: 18.75rem;
 }
 
 ul ol{
