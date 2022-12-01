@@ -1,0 +1,136 @@
+*{
+    font-family: 'Libre Baskerville';
+    text-align: center;
+    scroll-behavior: smooth;
+
+    /* background-color: black; */
+}
+#Home{
+    background-color:#FAF7F0 ;
+
+}
+
+.logo{
+    height: 52px;
+    width: 150px;
+}
+
+.logo:hover{
+    transform: translateX(5px)
+}
+
+.nav-color{
+    background-color:#54B435 ; 
+}
+.nav-link{
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: black;
+}
+.navcolor:hover{
+    color: #54B435;
+
+}
+.nav-link:hover{
+    color: #54B435;
+} 
+
+.products-p{
+    text-align: justify;
+    margin: 3% 10% 5%  10%;
+}
+
+.products-h2{
+    margin-top: 3%;
+}
+
+.products-h2:hover{
+    color: #54B435;
+    transform: translateX(0.2%);
+}
+
+
+  
+/*******************Products***********************/
+
+.center{
+    text-align: left;
+    /* font-size: small; */
+}
+
+.center1{
+ font-size: 1.5rem;
+ font-weight: bolder;
+}
+
+ul li{
+    text-align: left;
+}
+.shadow{
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.pulses{
+    width: auto;
+    height: 245px;
+}
+
+.spices {
+
+    width: 389px;
+    height: 245px;
+
+}
+
+.tea{
+    width: 345px;
+    height: auto;
+}
+
+.Grains{
+    width: auto;
+    height: 245px;
+
+}
+
+.fruits{
+    width: auto;
+    height: 267px;
+}
+
+.vegetable{
+    height: 300px;width: auto;
+}
+
+.dry_fruits{
+    height: 315px;
+    width: 29rem;
+
+
+}
+
+.herbs{
+    margin-top: 5rem;
+}
+
+.oil_seeds{
+    width: 349px;
+    height: 300px;
+}
+
+ul ol{
+    visibility: hidden;
+}
+
+#footer{
+    margin-top: 2.5rem;
+}
+
+.social-icon{
+    margin: 20px 10px;
+    font-size: 2rem;
+}
+.social-icon:hover{
+    color:  #54B435;
+}
