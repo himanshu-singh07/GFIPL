@@ -19,8 +19,11 @@
     transform: translateX(5px)
 }
 
+.active{
+    color: #58ef07;
+  }
 .nav-color{
-    background-color:#54B435 ; 
+    background-color:#58ef07 ; 
 }
 .nav-link{
     /* font-family: 'Courier New', Courier, monospace; */
@@ -29,11 +32,11 @@
     color: black;
 }
 .navcolor:hover{
-    color: #54B435;
+    color: #58ef07;
 
 }
 .nav-link:hover{
-    color: #54B435;
+    color: #58ef07;
 } 
 
 .products-p{
@@ -46,8 +49,10 @@
 }
 
 .products-h2:hover{
-    color: #54B435;
+    color: #58ef07;
+    border-radius: 3rem;
     transform: translateX(0.2%);
+
 }
 
 
@@ -70,11 +75,16 @@ ul li{
 .shadow{
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
+/* @media (max-width:800px){
+    .rice1{
+        width: 80%;
+        height: 80%;
+    }
+} */
 .rice1{
     width: 24rem;
     height: 15rem;
 }
-
 .pulses{
     width: auto;
     height: 15.31rem;
@@ -137,5 +147,5 @@ ul ol{
     font-size: 2rem;
 }
 .social-icon:hover{
-    color:  #54B435;
+    color:  #58ef07;
 }
