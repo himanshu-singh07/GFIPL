@@ -188,6 +188,49 @@
 
 }
 
+#pdfs h2{
+    font-family: 'Libre Baskerville';
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 3rem;
+}
+
+.pdf{
+display: flex;
+align-items: center;
+margin:2rem auto .1rem auto;
+}
+.pdf1{
+    margin: 1rem 6rem;
+}
+.pdf2{
+    margin:1rem 6rem;
+}
+.download1{
+    margin-left: 6rem;
+    text-decoration: none;
+    color: black;
+    gap: 3rem;
+}
+.download{margin-top: 1rem;
+}
+.download1:hover{
+    color: #54b435;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    font-weight: bold;
+}
+.download2{
+    margin-left: 12.5rem;
+    text-decoration: none;
+    color: black;
+    
+}
+.download2:hover{
+    color: #54b435;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    font-weight: bold;
+
+}
 
 
 
