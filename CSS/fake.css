@@ -66,39 +66,6 @@
     transform: translate(-50%, -50%);
     
 }
-.colored-section{
-    background-color: #f8f8f8;
-
-    
-}
-/* #Products{
-    padding-top: 1rem;
-}
-.products-h2{
-    text-align: center;
-    font-size: 3rem;
-    /* margin-top: 5rem; 
-    margin-bottom: 1rem;
-    font-weight: bold;
-    font-family: 'Courier New', Courier, monospace;
-} 
-
-  /* .product-img{
-    width: 58%;
-    height: 58%;;
-  }
-  .product-body{
-
-  }*/
- #Products{
-    margin-top: 3.5rem;
-    margin-bottom: 2rem;
-    background-color:#dff2d9 ; 
- } 
- .all-img{
-    width: 80%;
-    height: 450px;
- }
  #Products h3{
     text-align: center;
     margin-left: 45%;
@@ -111,6 +78,7 @@
  .view{
     max-width: 80%;
     margin-left: 10%;
+    background-color: #0783ef;
  }
 
  .view:hover{
@@ -140,7 +108,7 @@
     /* text-decoration: underline #58ef07; */
 }
 .rev{
-    color: #58ef07;
+    color: #0783ef;
 }
 
 .reviews-p{
@@ -151,7 +119,7 @@
     background-color: #58ef07;
 }
 .Pricing-btn{
-    background-color: #58ef07;
+    background-color: #0783ef;
 }
 .reviews-h2{
     text-align: center;
@@ -162,10 +130,7 @@
 
 }
 
-/* .carousel-control-next,
-.carousel-control-prev{
-    filter:invert(100%)
-} */
+/******************   About   *****************************/ 
 
 
 
@@ -180,12 +145,15 @@
     width: 25%;
     float: left;
     margin-right: 30px;
+    display: none;
     /* padding-right: 5px;*/ 
 }
 .soccer-img{
     width: 25%;
     float: right;
     margin-left: 20px;
+    display: none;
+
 }
 #About h2{
     font-family: 'Libre Baskerville';
@@ -240,7 +208,9 @@ margin:2rem auto .1rem auto;
 }
 
 
-
+#footer{
+    color : #ccc;
+}
 
  .social-icon{
     margin: 20px 10px;
